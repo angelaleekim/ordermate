@@ -8,3 +8,17 @@ OrderMate is a React-based application designed for managing and displaying orde
 - View order details by clicking on an order.
 - Move orders between sections using buttons.
 - Swipe gestures to animate the transition of orders between sections.
+
+### Setup
+
+1. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+2. Start the development server:
+
+   ```bash
+   npm start
+   ```
