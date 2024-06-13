@@ -11,13 +11,25 @@ OrderMate is a React-based application designed for managing and displaying orde
 
 ### Setup
 
-1. Install dependencies:
+1. Clone repo:
+
+   ```bash
+   git clone https://github.com/angelaleekim/ordermate.git
+   ```
+
+2. Change to 'ordermate' directory:
+
+   ```bash
+   cd ordermate
+   ```
+
+3. Install dependencies
 
    ```bash
    npm install
    ```
 
-2. Start the development server:
+4. Start the development server:
 
    ```bash
    npm start
